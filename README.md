@@ -100,6 +100,6 @@ uvicorn main:app --reload
 
 ## 🏆 Built for National Hackathon
 
-**Team:** Solo | **Duration:** 24 hours | **Domain:** Healthcare
+**Team:** Apex (4-members) | **Duration:** 24 hours | **Domain:** Healthcare
 
 > "Every person in rural India deserves world-class healthcare, one voice command at a time."
